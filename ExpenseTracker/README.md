@@ -1,5 +1,5 @@
 # Expense-Tracker-using--Python
-This is a simple expense tracker built in Python using Pandas, NumPy, and Matplotlib.
+This repository contains a simple Expense Tracker built using Python (Pandas, NumPy, Matplotlib). It reads expense data from a CSV file, provides spending summaries, generates category-wise reports, and visualizes spending with pie charts.
 
 ## Features
 - Read expenses from a CSV file (`expenses.csv`)
